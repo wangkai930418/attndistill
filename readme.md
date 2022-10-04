@@ -1,4 +1,4 @@
-# **Attention Distillation: self-supervised vision transformer students need more guidance (BMVC 2022)**
+# **[Attention Distillation: self-supervised vision transformer students need more guidance (BMVC 2022)](https://arxiv.org/abs/2210.00944)**
 
 [Kai Wang](https://scholar.google.com/citations?user=j14vd0wAAAAJ), [Fei Yang](https://scholar.google.com/citations?user=S1gksNwAAAAJ&hl=en) and [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en)
 
